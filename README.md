@@ -1,9 +1,9 @@
 # Hi there, I'm Ashutosh Surothia 👋  <br>
-# 2.5+ Years Of Experience<br>
+# 3.5+ Years Of Experience<br>
 # 🚀 Java Full Stack Developer | Backend Specialist | Problem Solver  <br>
 
 # 💫 About Me:
-🔹 Modernization Expert: Upgraded legacy BFSI apps at TCS with Spring Boot & Microservices, achieving 95%+ code coverage.  <br> 🔹 Workflow Optimizer: Reduced Git merge conflicts by 30%, saving teams 47% resolution time.  <br> 🔹 Backend & Frontend Skills: From REST APIs to responsive UIs — I bridge both worlds.  <br>🔹 Hackathon Winner: 🏆 1st Prize at Pune Verse Hackathon for innovative solutions.  <br> 🔹 Internship Wins: Boosted backend efficiency by 20% at Tetra Pak; created drag-&-drop UI magic at Saras Dairy.  
+🔹 Modernization Expert: Upgraded legacy BFSI apps at EY & TCS with Spring Boot & Microservices, achieving 95%+ code coverage.  <br> 🔹 Workflow Optimizer: Reduced Git merge conflicts by 30%, saving teams 47% resolution time.  <br> 🔹 Backend & Frontend Skills: From REST APIs to responsive UIs — I bridge both worlds.  <br>🔹 Hackathon Winner: 🏆 1st Prize at Pune Verse Hackathon for innovative solutions.  <br> 🔹 Internship Wins: Boosted backend efficiency by 20% at Tetra Pak; created drag-&-drop UI magic at Saras Dairy.  
 
 
 ## 🌐 Socials:
